@@ -37,7 +37,7 @@ export const SHOP = {
   telephoneDisplay: "010-4352-9055",
 
   /** 카카오톡 채널 (플러스친구) — 문의 버튼이 전부 여기로 연결됩니다 */
-  kakaoChannel: "http://pf.kakao.com/_wYMiX",
+  kakaoChannel: "https://pf.kakao.com/_wYMiX",
 
   logo: "/logo.png",
 
